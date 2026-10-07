@@ -1,0 +1,6 @@
+{
+  "name": "IntegrationOS",
+  "description": "Customer-environment to implementation intelligence platform calculating practical integration friction, blueprints, requirement change impacts, and readiness reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
